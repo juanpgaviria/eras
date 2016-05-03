@@ -1,4 +1,4 @@
-authorization = require("null-authorization")
+authorization = require("eras")
 
 JSONAdapter = authorization.adapters.JSONAdapter
 

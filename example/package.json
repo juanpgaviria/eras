@@ -1,0 +1,13 @@
+{
+  "name": "express-authorization-example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "preinstall": "npm install ../",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~3.4.4",
+    "ejs": "~0.8.4"
+  }
+}

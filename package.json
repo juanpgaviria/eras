@@ -1,6 +1,6 @@
 {
   "name": "eras",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "An authorization system non-intrusive inspired by express-authorization, Apache's Shiro project and XACML acl rules.",
   "main": "build/index.js",
   "scripts": {

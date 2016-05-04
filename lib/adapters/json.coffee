@@ -1,6 +1,6 @@
 
 
-Adapter = require "null-authorization-adapter"
+Adapter = require "eras-adapter"
 
 class JSONAdapter extends Adapter
   name: "json"
